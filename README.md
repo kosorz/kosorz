@@ -1,7 +1,5 @@
-### Hi there 👋
-
 <!--
-**kosorz/kosorz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Miczeq22/miczeq22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ <img align="left" alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=kosorz&count_private=true&theme=tokyonight" />
